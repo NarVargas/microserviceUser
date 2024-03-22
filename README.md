@@ -1,6 +1,7 @@
 
 Este proyecto es una aplicación Java de gestión de usuarios desarrollada utilizando Spring Boot, que proporciona un backend seguro y eficiente para administrar información de usuarios. 
 La aplicación utiliza tecnologías como: 
+
   -Spring MVC para la creación de controladores
   -Spring Data JPA para la interacción con la base de datos
   -Spring Security para la implementación de medidas de seguridad, incluyendo autenticación y autorización.
