@@ -3,7 +3,7 @@ Este proyecto es una aplicación Java de gestión de usuarios desarrollada utili
 La aplicación utiliza tecnologías como: 
 
   -Spring MVC para la creación de controladores
-  -Spring Data JPA para la interacción con la base de datos
+  -Spring Data JPA para la interacción con la base de datos(En este caso con H2)
 
 La aplicación permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre entidades de usuario, como nombre, apellidos, edad y otros detalles relacionados. 
 Además, utiliza técnicas de paginación para manejar grandes volúmenes de datos de manera eficiente, permitiendo a los usuarios navegar fácilmente a través de la información.
