@@ -4,7 +4,6 @@ La aplicación utiliza tecnologías como:
 
   -Spring MVC para la creación de controladores
   -Spring Data JPA para la interacción con la base de datos
-  -Spring Security para la implementación de medidas de seguridad, incluyendo autenticación y autorización.
 
 La aplicación permite realizar operaciones CRUD (Crear, Leer, Actualizar, Eliminar) sobre entidades de usuario, como nombre, apellidos, edad y otros detalles relacionados. 
 Además, utiliza técnicas de paginación para manejar grandes volúmenes de datos de manera eficiente, permitiendo a los usuarios navegar fácilmente a través de la información.
